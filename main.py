@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+#http://blog.sina.com.cn/s/blog_7f2d8e4e0102wuxj.html
 img = cv2.imread("d:/2.jpg")
 img = cv2.cvtColor(img, cv2.COLOR_RGB2GRAY)
 
